@@ -9,11 +9,12 @@ I'm currently developing an **AI-powered education platform** for the **AI for E
 
 ### 🎯 The Problem: Many students don't lack educational content — they lack **personalized explanations, accessible language, timely doubt resolution, and feedback suited to their individual learning gaps**.
 
-### 💡Our Approach: We're exploring an AI system that can: * 🤖 Provide grounded, step-by-step doubt solving using trusted educational resources
-                                                            * 📚 Generate adaptive practice questions based on a student's learning gaps
-                                                            * 🌐 Improve language accessibility through multilingual explanations
-                                                            *👨‍🏫 Help teachers identify students who may need additional support
-                                                            * 🎓 Connect eligible students with relevant scholarship or education opportunities
+### 💡Our Approach: We're exploring an AI system that can: 
+* 🤖 Provide grounded, step-by-step doubt solving using trusted educational resources
+* 📚 Generate adaptive practice questions based on a student's learning gaps
+* 🌐 Improve language accessibility through multilingual explanations
+*👨‍🏫 Help teachers identify students who may need additional support
+* 🎓 Connect eligible students with relevant scholarship or education opportunities
                                                       
                                                               
 
