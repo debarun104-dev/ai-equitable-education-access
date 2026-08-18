@@ -5,27 +5,8 @@ Email Me 👉 ✉️ **debarun104@gmail.com** For contact. 😊😊
 
 - 🔭 **I’m currently working on:** AI for Equitable Education Access
 - 🌱 **I’m currently learning:** HTML5|CSS|C|C++|JAVASCRIPT
-- 👯 **I’m looking to collaborate on:** AI for Equitable Education Access
+- 👯 **I’m looking to collaborate on:** AI for Equitable Education Access|
                                         Theme: Education, Language Access and Personalized Learning
-
-Project Context
-
-Many students lack access to quality tutoring, doubt resolution or personalized feedback -not because content is unavailable, but because no system connects a student's specific confusion to the right explanation, at the right level, in the right language. Teachers in under-resourced schools are similarly stretched, often without a way to identify which students are falling behind until it is too late..
-
-Build an Al system that closes part of the education access gap, for students, teachers, or both, using open or public educational content as its knowledge base.
-
-Illustrative Directions
-
-Grounded Doubt-Solving Agent explains concepts step by step from open textbooks, with citations to source.
-
-Adaptive Practice Generator - creates practice questions and explanations tailored to a student's demonstrated gaps.
-
-Teacher-Facing Insight Agent - flags students needing attention based on quiz and engagement patterns.
-
-Scholarship or Eligibility Matcher - helps students discover and apply for aid they qualify for.
-
-Open reinterpretation of the challenge is welcome.
-
 - 🤔 **I’m looking for help with:** AI for Equitable Education Access
 - 💬 **Ask me about:** CODING
 - 📫 **How to reach me:** email at:debarun104@gmail.com
