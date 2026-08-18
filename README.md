@@ -1,18 +1,26 @@
 # 💫 Hi 👋, I'm Debarun Mukherjee
-**A passionate learner|UG|SXUK 2030|BTECH CSE AI/ML|INDIA**
+**A passionate learner: UG|SXUK 2030|BTECH CSE AI/ML|FIRST YEAR|INDIA**
 
 Email Me 👉 ✉️ **debarun104@gmail.com** For contact. 😊😊
 
-- 🔭 **I’m currently working on:** AI for Equitable Education Access
-- 🌱 **I’m currently learning:** HTML5|CSS|C|C++|JAVASCRIPT
-- 👯 **I’m looking to collaborate on:** AI for Equitable Education Access|
-                                        Theme: Education, Language Access and Personalized Learning
-- 🤔 **I’m looking for help with:** AI for Equitable Education Access
-- 💬 **Ask me about:** CODING
-- 📫 **How to reach me:** email at:debarun104@gmail.com
-- 😄 **Pronouns:** he/him
-- ⚡ **Fun fact:** I Love Coding and Coding loves Me
+## 🚀 Currently Building — AI for Equitable Education Access
 
+I'm currently developing an **AI-powered education platform** for the **AI for Equitable Education Access** hackathon challenge.
+
+### 🎯 The Problem: Many students don't lack educational content — they lack **personalized explanations, accessible language, timely doubt resolution, and feedback suited to their individual learning gaps**.
+
+### 💡Our Approach: We're exploring an AI system that can: * 🤖 Provide grounded, step-by-step doubt solving using trusted educational resources
+                                                            * 📚 Generate adaptive practice questions based on a student's learning gaps
+                                                            * 🌐 Improve language accessibility through multilingual explanations
+                                                            *👨‍🏫 Help teachers identify students who may need additional support
+                                                            * 🎓 Connect eligible students with relevant scholarship or education opportunities
+                                                      
+                                                              
+
+### 🛠️ Tech I'm Exploring: HTML • CSS • JavaScript • Web Development
+
+**Theme:** Education • Language Access • Personalized Learning
+🤝 Open to collaborating on: AI for Equitable Education Access
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debarun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debarun104@gmail.com) 
